@@ -1,0 +1,514 @@
+{
+  
+    "fisioterapeutas": [
+        {
+            "id": 1,
+            "src": "./Images/img_terapeutas/Lila.jpg",
+            "title": "Tia Elizabeth Gurgel",
+            "categoria": "fisioterapeuta"
+        },
+        {
+            "id": 2,
+            "src": "./Images/img_terapeutas/Adriana.jpg",
+            "title": "Adriana Franklin",    
+            "categoria": "fisioterapeuta"
+        },
+        {
+            "id": 3,
+            "src": "./Images/img_terapeutas/MariHerculano.jpeg",
+            "title": "Marianna Herculano",
+            "categoria": "fisioterapeuta"
+        },
+        {
+            "id":4,
+            "src": "./Images/img_terapeutas/Alice.jpg",
+            "title": "Alice Câmara",
+            "categoria": "fisioterapeuta"
+        },
+        {
+            "id": 5,
+            "src": "./Images/img_terapeutas/Camila.jpg",
+            "title": "Camila de Fátima",
+            "categoria": "fisioterapeuta"
+        },
+        {
+            "id":6,
+            "src": "./Images/img_terapeutas/Ivyna.jpg",
+            "title": "Ivyna Borges",
+            "categoria": "fisioterapeuta"
+        },
+        {
+            "id": 7,
+            "src": "./Images/img_terapeutas/Jessyka.jpg",
+            "title": "Jessika Karoline",
+            "categoria": "fisioterapeuta"
+        },
+        {
+            "id": 8,
+            "src": "./Images/img_terapeutas/LarissaFisio.jpg",
+            "title": "Larissa Lorena",
+            "categoria": "fisioterapeuta"
+        },
+        {
+            "id": 9,
+            "src": "./Images/img_terapeutas/MariFreitas.jpg",
+            "title": "Mariana Freitas",
+            "categoria": "fisioterapeuta"
+        },
+        {
+            "id": 10,
+            "src": "./Images/img_terapeutas/marilia.jpeg",
+            "title": "Marília Rocha",
+            "categoria": "fisioterapeuta"
+        },
+        {
+            "id": 10,
+            "src": "./Images/img_terapeutas/Ranny.jpg",
+            "title": "Ranielly Muniz",
+            "categoria": "fisioterapeuta"
+        }
+
+    ],
+
+    "terapeutas_ocupacionais": [
+        {
+            "id": 1,
+            "src": "./Images/img_terapeutas/Wladia.jpg",
+            "title": "Wládia Barroso",
+            "categoria": "terapeuta_ocupacional"
+        },
+        {
+            "id": 2,
+            "src": "./Images/img_terapeutas/Samary.jpg",
+            "title": "Samary Mesquita",
+            "categoria": "terapeuta_ocupacional"
+        }, 
+        {
+            "id": 3,
+            "src": "./Images/img_terapeutas/Dione.jpg",
+            "title": "Dione Carvalho",
+            "categoria": "terapeuta_ocupacional"
+        }, 
+        {
+            "id": 4,
+            "src": "./Images/img_terapeutas/Joyce.jpeg",
+            "title": "Joyce Emanuelly",
+            "categoria": "terapeuta_ocupacional"
+        }, 
+        {
+            "id": 6,
+            "src": "./Images/img_terapeutas/Thaisa.jpeg",
+            "title": "Thaísa Duarte",
+            "categoria": "terapeuta_ocupacional"
+        }  
+    ],
+
+    "fonoaudiologas": [
+        {
+            "id": 1,
+            "src": "./Images/img_terapeutas/anaEmanuele.jpeg",
+            "title": "Ana Emanuele",
+            "categoria": "fonoaudiologa"
+        },
+        {
+            "id": 2,
+            "src": "./Images/img_terapeutas/ninivy.jpeg",
+            "title": "Ninivy Tavares",
+            "categoria": "fonoaudiologa"
+        }, 
+        {
+            "id": 3,
+            "src": "./Images/img_terapeutas/suelem.jpeg",
+            "title": "Suelem Andrade",
+            "categoria": "fonoaudiologa"
+        }  
+    ],
+
+    "psicologos": [
+        {
+            "id": 1,
+            "src": "./Images/img_terapeutas/jeferson.png",
+            "title": "Jeferson Weyne",
+            "categoria": "psicologo(a)"
+        },
+        {
+            "id": 2,
+            "src": "./Images/img_terapeutas/lucianaPsicologa.png",
+            "title": "Luciana Magalhães",
+            "categoria": "psicologo(a)"
+        } 
+    ],
+
+    "estimulacao_visual": [
+        {
+            "id": 1,
+            "src": "./Images/img_terapeutas/Dione.jpg",
+            "title": "Dione Carvalho",
+            "categoria": "terapeuta_ocupacional"
+        },
+        {
+            "id": 2,
+            "src": "./Images/img_terapeutas/Jean.jpeg",
+            "title": "Jean Hipólito",
+            "categoria": "terapeuta_ocupacional"
+        } 
+    ],
+
+    "therasuit": [
+        {
+            "id": 1,
+            "src": "./Images/img_terapeutas/Emanuelle.jpeg",
+            "title": "Emanuelle Jorge",
+            "categoria": "Fisioterapeuta"
+        },
+        {
+            "id": 2,
+            "src": "./Images/img_terapeutas/brenda.jpeg",
+            "title": "Brenda July",    
+            "categoria": "Fisioterapeuta"
+        },
+        {
+            "id": 3,
+            "src": "./Images/img_terapeutas/Jessyka.jpg",
+            "title": "Jessika Karoline",
+            "categoria": "Fisioterapeuta"
+        },
+        {
+            "id":4,
+            "src": "./Images/img_terapeutas/JulianaThera.jpg",
+            "title": "Juliana Portela",
+            "categoria": "Fisioterapeuta"
+        },
+        {
+            "id": 5,
+            "src": "./Images/img_terapeutas/Larissa.jpeg",
+            "title": "Larissa Cavalcante",
+            "categoria": "Fisioterapeuta"
+        },
+        {
+            "id":6,
+            "src": "./Images/img_terapeutas/Luciana.jpeg",
+            "title": "Luciana Cartaxo",
+            "categoria": "Fisioterapeuta"
+        },
+        {
+            "id": 7,
+            "src": "./Images/img_terapeutas/Jessyka.jpg",
+            "title": "Jessika Karoline",
+            "categoria": "Fisioterapeuta"
+        },
+        {
+            "id": 8,
+            "src": "./Images/img_terapeutas/MariFreitas.jpg",
+            "title": "Mariana Freitas",
+            "categoria": "Fisioterapeuta"
+        },
+        {
+            "id": 9,
+            "src": "./Images/img_terapeutas/marilia.jpeg",
+            "title": "Marília Rocha",
+            "categoria": "Fisioterapeuta"
+        },
+        {
+            "id": 10,
+            "src": "./Images/img_terapeutas/mayara.jpeg",
+            "title": "Mayara Diniz",
+            "categoria": "Fisioterapeuta"
+        },
+        {
+            "id": 11,
+            "src": "./Images/img_terapeutas/Paula.jpeg",
+            "title": "Paula Erika",
+            "categoria": "Terapeuta Ocupacional"
+        },
+        {
+            "id": 12,
+            "src": "./Images/img_terapeutas/Vanessa.jpg",
+            "title": "Vanessa de Oliveira",
+            "categoria": "Fisioterapeuta"
+        }
+
+    ],
+
+    "musicoterapeuta": [
+        {
+            "id": 1,
+            "src": "./Images/img_terapeutas/angela.jpeg",
+            "title": "Ângela Lopes",
+            "categoria": "musicoterapeuta"
+        }
+    ],
+
+    "accordion_therasuit": [
+        {
+            "id": 1,
+            "question": "Suit",
+            "answer": "Vestimenta utilizada no tratamento",
+            "categoria": "therasuit"
+        },
+        {
+            "id": 2,
+            "question": "Gaiola",
+            "answer": "Usada para o sistema de polias",
+            "categoria": "therasuit"
+        },
+        {
+            "id": 3,
+            "question": "Spider",
+            "answer": "Elásticos para suporte",
+            "categoria": "therasuit"
+        }
+    ],
+
+    "accordion_psicologia": [
+        {
+            "id": 1,
+            "question": "Psicologia Clínica",
+            "answer": "fkjsdfiojdfosdjfosdpfk",
+            "categoria": "psicologia"
+        },
+        {
+            "id": 2,
+            "question": "Psicologia Educacional",
+            "answer": "çdfksd´pfksd´pfsdkl",
+            "categoria": "psicologia"
+        },
+        {
+            "id": 3,
+            "question": "Psicomotricidade",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "psicologia"
+        },
+        {
+            "id": 4,
+            "question": "Psicologia da Saúde",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "psicologia"
+        }
+    ],
+
+    "accordion_fisioterapia": [
+        {
+            "id": 1,
+            "question": "Método Cuevas Medek Exercises(CME)",
+            "answer": "fkjsdfiojdfosdjfosdpfk",
+            "categoria": "fisioterapia"
+        },
+        {
+            "id": 2,
+            "question": "Método Bobath e Bobath Baby",
+            "answer": "çdfksd´pfksd´pfsdkl",
+            "categoria": "fisioterapia"
+        },
+        {
+            "id": 3,
+            "question": "Pilates Adaptado e Pilates Kids",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "fisioterapia"
+        },
+        {
+            "id": 4,
+            "question": "Método Samarão Brandão",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "fisioterapia"
+        },
+        {
+            "id": 5,
+            "question": "Taping Kids",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "fisioterapia"
+        },
+        {
+            "id": 6,
+            "question": "WalkAide",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "fisioterapia"
+        },
+        {
+            "id": 7,
+            "question": "Treino Locomotor e Treino de Marcha",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "fisioterapia"
+        },
+        {
+            "id": 8,
+            "question": "Microcurrent Point Stimulation(MPS)",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "fisioterapia"
+        }
+    ],
+
+    "accordion_estimulacao_visual": [
+        {
+            "id": 1,
+            "question": "Método Cuevas Medek Exercises(CME)",
+            "answer": "fkjsdfiojdfosdjfosdpfk",
+            "categoria": "estimulacao_visual"
+        },
+        {
+            "id": 2,
+            "question": "Método Bobath e Bobath Baby",
+            "answer": "çdfksd´pfksd´pfsdkl",
+            "categoria": "estimulacao_visual"
+        },
+        {
+            "id": 3,
+            "question": "Pilates Adaptado e Pilates Kids",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "estimulacao_visual"
+        },
+        {
+            "id": 4,
+            "question": "Método Samarão Brandão",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "estimulacao_visual"
+        } 
+    ],
+
+    "accordion_fonoaudiologia": [
+        {
+            "id": 1,
+            "question": "Linguagem",
+            "answer": "fkjsdfiojdfosdjfosdpfk",
+            "categoria": "fonoaudiologia"
+        },
+        {
+            "id": 2,
+            "question": "Motricidade Orofacial",
+            "answer": "çdfksd´pfksd´pfsdkl",
+            "categoria": "fonoaudiologia"
+        },
+        {
+            "id": 3,
+            "question": "Disfagia",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "fonoaudiologia"
+        },
+        {
+            "id": 4,
+            "question": "Fonoaudiologia Neurofacial",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "fonoaudiologia"
+        },
+        {
+            "id": 5,
+            "question": "Voz",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "fonoaudiologia"
+        },
+        {
+            "id": 6,
+            "question": "Implante Coclear",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "fonoaudiologia"
+        }   
+    ],
+
+    "accordion_musicoterapia": [
+        {
+            "id": 1,
+            "question": "Método Cuevas Medek Exercises(CME)",
+            "answer": "fkjsdfiojdfosdjfosdpfk",
+            "categoria": "musicoterapia"
+        },
+        {
+            "id": 2,
+            "question": "Método Bobath e Bobath Baby",
+            "answer": "çdfksd´pfksd´pfsdkl",
+            "categoria": "musicoterapia"
+        },
+        {
+            "id": 3,
+            "question": "Pilates Adaptado e Pilates Kids",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "musicoterapia"
+        },
+        {
+            "id": 4,
+            "question": "Método Samarão Brandão",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "musicoterapia"
+        } 
+    ],
+
+    "accordion_terapia_ocupacional": [
+        {
+            "id": 1,
+            "question": "Integração Sensorial",
+            "answer": "fkjsdfiojdfosdjfosdpfk",
+            "categoria": "terapia_ocupacional"
+        },
+        {
+            "id": 2,
+            "question": "Método Bobath e Bobath Baby",
+            "answer": "çdfksd´pfksd´pfsdkl",
+            "categoria": "terapia_ocupacional"
+        },
+        {
+            "id": 3,
+            "question": "Bayley 3 – Escalas Bayley de desenvolvimento",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "terapia_ocupacional"
+        },
+        {
+            "id": 4,
+            "question": "MACS – Manual hability classification system",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "terapia_ocupacional"
+        },
+        {
+            "id": 5,
+            "question": "SPM – Sensory Processing Measure",
+            "answer": "kd´plfvksdfopsdkfsd",
+            "categoria": "terapia_ocupacional"
+        }  
+    ],
+
+    "cards": [
+        {
+            "id": 1,
+            "src": "./src/assets/img/cards/corridinha.jpg",
+            "title": "Corridinha Therapias",
+            "text": "Fisioterapeuta"
+            
+        }
+    ],
+
+    "depoimentos": [
+        {
+            "id": 1,
+            "text": "Melhor clínica para reabilitação infantil",
+            "autor": "Julio Lopes",
+
+            "text2": "Melhor clínica para reabilitação infantil",
+            "autor2": "Julio Lopes",
+
+            "text3": "Melhor clínica para reabilitação infantil",
+            "autor3": "Julio Lopes"
+        },
+        {
+            "id": 2,
+            "text": "Melhores profissionais",
+            "autor": "Marcia Leal",
+            
+            "text2": "Melhor clínica para reabilitação infantil",
+            "autor2": "Pedro Alcantara",
+            
+            "text3": "Melhor clínica para reabilitação infantil",
+            "autor3": "Julio Lopes"
+
+        },
+        {
+            "id": 3,            
+            "text": "Melhor estrutura",
+            "autor": "Bruna Porto",
+            
+            "text2": "Melhor clínica para reabilitação infantil",
+            "autor2": "Julio Lopes",
+            
+            "text3": "Melhor clínica para reabilitação infantil",
+            "autor3": "Julio Lopes"
+        }
+    ]
+
+}
